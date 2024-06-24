@@ -1378,7 +1378,6 @@ background-position: 0 -70px;
 
 /*END PS4 White Controller Styling*/
 
-/*BEGIN NES Controller Styling*/
 .controller.nes {
   background: url(nes-assets/base.png);
   width: 832px;
